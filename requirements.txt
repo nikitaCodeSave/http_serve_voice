@@ -1,0 +1,10 @@
+setuptools
+fastapi==0.95.1
+uvicorn==0.22.0
+python-multipart==0.0.6
+numpy>=1.26.0
+webrtcvad==2.0.10
+pydub==0.25.1
+numpy>=1.26.0
+soundfile==0.12.1
+
